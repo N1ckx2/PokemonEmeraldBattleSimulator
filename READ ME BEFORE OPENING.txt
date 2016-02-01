@@ -1,0 +1,20 @@
+18 January 2015
+ICS 203-02
+Nicholas Vadivelu, Bingran Li, David Chen-Li
+ICS Summative Project
+
+Title: Pokemon Emerald Battle Simulator
+
+Before running, please remember to add addition class files, which are located at:
+\Pokemon Emerald Battle Simulator\JLayer.jar
+\Pokemon Emerald Battle Simulator\hsa
+
+If you are using DrJava, please ensure that you are using the Eclipse Compiler
+
+We included our flowcharts, write up, and storyboard in one big PDF.
+We also have a video demo of the program in this folder
+
+Roles:
+Bingran Li: Designed all logic, battle sequence, and battle classes.
+Nicholas Vadivelu: Designed graphics, user interface, JFrame, and animations.
+David Chen-Li: Designed pokemon classes, attributes, behaviour, and moves.
